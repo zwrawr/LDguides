@@ -1,0 +1,19 @@
+{
+  "name": "ld-guides",
+  "version": "0.0.0",
+  "description": "User guides for ludumdare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwrawr/LDguides.git"
+  },
+  "author": "@zwrawr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwrawr/LDguides/issues"
+  },
+  "homepage": "https://github.com/zwrawr/LDguides#readme"
+}
