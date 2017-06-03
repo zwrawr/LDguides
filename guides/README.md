@@ -26,11 +26,19 @@ Some things to remember when writing.
 
 There two things you should do once you've completed your edits.
 
-* Proof read the files you've changed.
+#### Proof read the files you've changed.
 
-* Run the test suite (spell check)
+#### Run the test suite
+Currently this is just a simple spell checker.
+It's set to use an American English (`en-us`) dictionary.
+
+You can run the test in the command line using the command below.
+It should give you a color coded list of any spelling mistakes.
 ```
 npm test
 ```
+
+Correctly spelled works that are being reported as spelling mistakes should be added to the `.spelling` file.
+It's likely that you'll have to add user names, company names, technological words and Ludum dare specific phrases.
 
 Our test suite is also run via Travis CI
