@@ -1,0 +1,34 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+ludum
+ludumdare
+itch.io
+html5
+gamejolt
+newgrounds
+swf
+kongregate
+webgl
+github
+gitlab
+dropbox
+svn
+bitbucket
+i.e.
+gamemaker
+e.g.
+sfxr
+scanline
+sciencey
+marios
+johan
+peitz
+fyaro2k
+sos
+sosowski
+geno2925
+artform
+themeyness

@@ -77,7 +77,7 @@ Here are some **bad derivatives** (not necessarily bad looking):
 
 You can easily see the silhouette and details of the **original** (left) in the **derivative** (right).
 
-While this is technically a derivative, there’s a big problem: **the original artwork belongs to Nintendo**, who doesn’t grant permission to do this sort of thing (these are fan works, harmless, but still legally grey). If you plan to create artwork this way, you should enter the **Jam** instead.
+While this is technically a derivative, there’s a big problem: **the original artwork belongs to Nintendo**, who doesn’t grant permission to do this sort of thing (these are fan works, harmless, but still legally gray). If you plan to create artwork this way, you should enter the **Jam** instead.
 
 ![Good and bad texture derivatives](///other/rules/Textures1.png)
 
@@ -148,7 +148,7 @@ In addition, there is a special category **Coolness**. The more games you play a
 
 **Coming Soon:** We will soon have a system in place that credits you for leaving good feedback on a game. Details are still being worked out, but there will likely be **Coolness** bonuses.
 
-**Coolness Abuse:** Beware! We monitor suspicious behaviour. We _will not_ disqualify you, but any advantage you think you may be getting we can take away with just a few clicks.
+**Coolness Abuse:** Beware! We monitor suspicious behavior. We _will not_ disqualify you, but any advantage you think you may be getting we can take away with just a few clicks.
 
 ## Prizes
 
