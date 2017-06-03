@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zwrawr/LDguides/issues"
   },
-  "homepage": "https://github.com/zwrawr/LDguides#readme"
+  "homepage": "https://github.com/zwrawr/LDguides#readme",
+  "dependencies": {
+    "markdown-spellcheck": "^0.11.0"
+  }
 }
