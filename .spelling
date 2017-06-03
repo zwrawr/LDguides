@@ -3,32 +3,53 @@
 # global dictionary is at the start, file overrides afterwards
 # one word per line, to define a file override use ' - filename'
 # where filename is relative to this configuration file
-ludum
+
+
+# Words to do with Ludum Dare
+Ludum
+Dare
 ludumdare
+jammer
+Compo
+Jam
+
+# Other Orgs
 itch.io
-html5
 gamejolt
 newgrounds
-swf
 kongregate
-webgl
 github
 gitlab
 dropbox
-svn
 bitbucket
-i.e.
 gamemaker
-e.g.
 sfxr
-scanline
+
+
+# Tech words
+html5
+webgl
+swf
+svn
+repo
+clone
+fork
+
+# Pseudo words we use a lot
 sciencey
 marios
+artform
+themeyness
+
+# Words that should be in the dict already
+i.e.
+e.g.
+scanline
+
+# usernames
 johan
 peitz
 fyaro2k
 sos
 sosowski
 geno2925
-artform
-themeyness
