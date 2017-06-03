@@ -4,7 +4,7 @@
   "description": "User guides for ludumdare",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mdspell -r -n --en-us **/*.md !**/node_modules/**/*.md"
   },
   "repository": {
     "type": "git",
