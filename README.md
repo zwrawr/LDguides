@@ -27,6 +27,7 @@ Some things to remember when writing.
 There two things you should do once you've completed your edits.
 
 #### Proof read the files you've changed.
+This is probably common sense, but you should reread you changes to make sure what you've written has made sense.
 
 #### Run the test suite
 Currently this is just a simple spell checker.
@@ -36,6 +37,11 @@ You can run the test in the command line using the command below.
 It should give you a color coded list of any spelling mistakes.
 ```
 npm test
+```
+
+You can run the interactive version of the spellchecker using the following command.
+```
+npm run spellcheck
 ```
 
 Correctly spelled works that are being reported as spelling mistakes should be added to the `.spelling` file.

@@ -4,7 +4,8 @@
   "description": "User guides for ludumdare",
   "main": "index.js",
   "scripts": {
-    "test": "mdspell -r -n --en-us **/*.md !**/node_modules/**/*.md"
+    "test": "mdspell -r -n --en-us **/*.md !**/node_modules/**/*.md",
+    "spellcheck" : "mdspell **/*.md !**/node_modules/**/*.md --en-us -n"
   },
   "repository": {
     "type": "git",

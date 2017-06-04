@@ -7,8 +7,7 @@ You can find more details how to start making games in the [making games guide *
 You can find more details about game development tool in the [tools section *(coming soon)*]().
 
 ## 2. How do I take part in Ludum Dare?
-
-Every Ludum Dare event consists of a few different stages, which run for over a month! With the Jam/Compo running over one weekend, three times a year (normally in April, August and Decemeber). Below is a break down of what happens in a normal LD.
+Every Ludum Dare event consists of a few different stages, which run for over a month! With the Jam/Compo running over one weekend, three times a year (normally in April, August and December). Below is a break down of what happens in a normal LD.
 
 ### 2.1. Choosing the Theme
 Every Ludum Dare has a theme, that is chosen by the community in the weeks prior to the event.
@@ -51,12 +50,12 @@ You can find more details about the categories and voting in general in the [vot
 ### 2.6. Results
 Once the voting ends, the results go live!
 
-At this stage you'll be able to see how your game was ranked along with how other people did.  
-The 'winners' in each catogoery will also be announeced and listed.
+At this stage you'll be able to see your games ranking as well as the ranking of other peoples games.
+The 'winners' in each category will also be announced and listed.
 This is  a great time to go and play the games that the community think were the best.
 
 ## 3. Where can I see the Ludum Dare rules?
-You can find more details about Ludum Dare's rules and the diffence bettween the Jam and Compo ionn the [voting guide*(coming soon)*](/ludum-dare/theme).
+You can find more details about Ludum Dare's rules and the difference between the Jam and Compo in the [voting guide*(coming soon)*](/ludum-dare/theme).
 
 ## 4. Where can I find other LD-ers?
 Here a few places that you can try!
@@ -70,9 +69,9 @@ Here a few places that you can try!
 ## 5. Where can I ask questions?
 If you think the question can be answered by the community then you should try posting in the [IRC](http://ludumdare.com/compo/irc/) or on this site.
 
-You can also try psoting in the @help group *(coming soon)*.
+You can also try posting in the @help group *(coming soon)*.
 
-If the question carn't be answered by the community then you ask @pov.
+If the question can't be answered by the community then you ask @pov.
 
 ## 6. How can I get in touch with PoV?
 He's on Twitter [@mikekasprzak](twitter.com/mikekasprzak) and full contact details can be found on the [contact page](https://ldjam.com/contact).
