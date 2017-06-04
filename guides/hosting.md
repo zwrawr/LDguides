@@ -55,7 +55,7 @@ There are plenty of ways to host your games for free. Here are a few of the popu
 
 * **[GitLab](https://gitlab.com)**
 
-    GitLab provides similar services to GitHub. You can host builds of your game on GitLab by using [Tags](https://about.gitlab.com/2015/11/22/gitlab-8-2-released/#releases). And [GitLab Pages](https://docs.gitlab.com/ce/workflow/releases.html#releases) allow you to directly host web games.
+    GitLab provides similar services to GitHub. You can host builds of your game on GitLab by using [Tags](https://about.gitlab.com/2015/11/22/gitlab-8-2-released/#releases). And [GitLab Pages](https://github.com/blog/2228-simpler-github-pages-publishing) allow you to directly host web games.
 
 #### Cloud Storage
 * **[Dropbox](https://dropbox.com)**
