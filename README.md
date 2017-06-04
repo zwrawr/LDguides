@@ -1,5 +1,7 @@
 # Ludum Dare Guides
 
+[![Build Status](https://travis-ci.org/zwrawr/LDguides.svg?branch=master)](https://travis-ci.org/zwrawr/LDguides)
+
 ## Overview
 The purpose of the repo is to have a location where then user guides for the new Ludum Dare website can be easily collaborated on.
 
