@@ -3,6 +3,8 @@
 ## Overview
 The purpose of the repo is to have a location where then user guides for the new Ludum Dare website can be easily collaborated on.
 
+Checkout [Tree.md](tree.md) for a list of files in this repo.
+
 ## Contributing
 
 ### Setup
